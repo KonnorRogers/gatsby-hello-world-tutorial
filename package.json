@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "eslint": "^6.1.0",
-    "gatsby": "^2.13.62",
+    "gatsby": "^2.32.13",
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
